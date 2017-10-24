@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{59C6F8CF-79B6-46F7-A658-E36DF0662E95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contact-List/Main.storyboard">
+    <Files>
+      <File FileName="Contact-List/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Contact-List PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7CE9BF11-2E0B-44DC-A4A5-67EF0EDFBA14">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Contact-List>
+  <MultiItemStartupConfigurations />
+</Properties>
